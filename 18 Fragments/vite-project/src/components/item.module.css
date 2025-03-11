@@ -1,0 +1,27 @@
+.kg-span {
+    font-weight: 500;
+    cursor: pointer;
+}
+
+.kg-item {
+    background-color: rgb(162, 140, 240);
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px 0 rgba(247, 17, 17, 0.2);
+    cursor: pointer;
+}
+
+.FoodInput {
+    padding: 5px;
+    margin: 10px 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    text-align: center;
+    width: auto; /* Set width to auto */
+    display: inline-block; /* Ensure the div resizes based on content */
+}
+
+.button {
+    float: right;
+}
